@@ -42,7 +42,7 @@ function score_box(season, week){
             url: data_url + $.param(params),
             beforeSend: function(xhrObj){
                 // Request headers
-                xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key","ea1c07189099485792bd67d9f4501cdc");
+                xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key","69289877925f467585482ca38254587e");
             },
             type: "GET",
             // Request body
@@ -57,7 +57,7 @@ function score_box(season, week){
 
             })
             .fail(function() {
-                alert("API key ran out contact Lance ASAP");
+                alert("The Trial API key is finished. Contact Lance Takiguchi to restore functionality");
             });
     });
 }
