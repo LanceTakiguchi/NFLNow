@@ -1,3 +1,58 @@
+# NFL Now
+* Date: 2017/03/07
+* Author: Lance Takiguchi
+* Description: A Hackathon group made app that displays game scores, stadium weather, team twitters, and YouTube via APIs. 
+
+## Live Link
+* http://lancetakiguchi.com/apps/sgt_app/
+## Portfolio
+* http://lancetakiguchi.com/
+
+![alt tag](http://lancetakiguchi.com/assets/images/apps/nfl_app.png?raw=true "SGT pv1.0 | Lance Takiguchi App")
+
+## Version pv1.0
+* Date: 2017/03/07
+#### Description: Final Presentation Version
+* Updated README to have links, a screenshot, a planned addtions section, learning section.
+* Update API Key.
+
+## The Learning Experince
+This was my second hackathon, and it went much smoother. We decided
+on an idea to use 4 different APIs based on a team member's love for
+football. I was in charge with finding the API to give us the scores,
+and I found an API with the scores, weather, stadium, etc. We started
+to integrate this first into the user interface... when we realized
+the scores were scrambled. Given it was a trial API key, they scrambled
+the scores so that it was not accurate. Given we only care about using
+APIs for the project, we went ahead and ran with it anyways. 
+
+Having learned from the last hackathon, as a team we did much better 
+communicating as well as paired programming. We had a clear NFL loving
+leader to help guide the app into what he had in mind. We kept updating
+our progress with each other and giving tasks as they appeared. The one
+thing that could have improved would be divided tasks within a part. For 
+example, once I finished my API and got it integrated and working,
+I either helped others integrate their APIs, paired programmed, or was
+given something to debug. If we had the main UI divided into tasks, then
+it would be more clear what I could do. In the end, the app worked well,
+and the leader always kept me busy, but it would have made my time
+more seamless. 
+
+## Web Development Utilized 
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* git
+* YouTube API
+* Twitter API
+* Weather API
+* FantasyNFL API
+
+## Future Features
+* Add my contacts in the footer.
+
+
 # c10_api_hackathon
 Hackathon project involving the combination of different data sources into an application or game
 
