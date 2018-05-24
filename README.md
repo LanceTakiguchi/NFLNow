@@ -3,12 +3,15 @@
 * Author: Lance Takiguchi
 * Description: A Hackathon group made app that displays game scores, stadium weather, team twitters, and YouTube via APIs. 
 
-## Live Link
-* http://lancetakiguchi.com/apps/sgt_app/
 ## Portfolio
-* http://lancetakiguchi.com/
+* To be updated
 
 ![alt tag](http://lancetakiguchi.com/assets/images/apps/nfl_app.png?raw=true "SGT pv1.0 | Lance Takiguchi App")
+
+## Changed to Github Pages
+* Date: 2018/05/23
+* Description: Deactivated my website, lancetakiguchi.com. Removing live link from README
+* Note: Our API key has expired, and this project no longer is sustainable with the loss of API access.
 
 ## Version pv1.0
 * Date: 2017/03/07
