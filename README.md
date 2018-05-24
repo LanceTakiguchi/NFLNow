@@ -6,7 +6,7 @@
 ## Portfolio
 * To be updated
 
-![alt tag](http://lancetakiguchi.com/assets/images/apps/nfl_app.png?raw=true "SGT pv1.0 | Lance Takiguchi App")
+#### Project Image to be updated
 
 ## Changed to Github Pages
 * Date: 2018/05/23
